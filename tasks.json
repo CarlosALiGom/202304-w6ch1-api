@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Rezar a Uncle Bob",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "name": "Comerme un sandwichito",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "name": "Contestar comentarios en git XDXDXD",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "name": "Priorizar las prioridades",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "name": "Madurar",
+      "isDone": false
+    }
+  ]
+}
