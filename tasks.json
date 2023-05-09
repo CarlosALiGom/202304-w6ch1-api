@@ -2,7 +2,7 @@
   "tasks": [
     {
       "id": 1,
-      "name": "Rezar a Uncle Bob",
+      "name": "Rezar a Uncle Bob Ross",
       "isDone": false
     },
     {
@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "name": "Contestar comentarios en git XDXDXD",
-      "isDone": false
+      "name": "Contestar comentarios en git",
+      "isDone": true
     },
     {
       "id": 4,
