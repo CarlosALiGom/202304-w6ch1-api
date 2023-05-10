@@ -2,18 +2,18 @@
   "tasks": [
     {
       "id": 1,
-      "name": "Rezar a Uncle Bob Ross",
+      "name": "Aprender a aprender",
       "isDone": false
     },
     {
-      "id": 2,
-      "name": "Comerme un sandwichito",
+      "id": 4,
+      "name": "Tener el presentimiento de que empieza la accion",
       "isDone": false
     },
     {
-      "id": 3,
-      "name": "Contestar comentarios en git",
-      "isDone": true
+      "id": 4,
+      "name": "Tatuarme la S de solid en un brazo",
+      "isDone": false
     },
     {
       "id": 4,
