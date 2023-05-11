@@ -1,8 +1,28 @@
 {
   "tasks": [
     {
+      "id": 1,
+      "name": "Aprender a aprender",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "name": "Tatuarme la S de SOLID en un brazo",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "name": "Tener el presentimiento de que empieza la acción",
+      "isDone": false
+    },
+    {
       "id": 4,
       "name": "Priorizar las prioridades",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "name": "Contestar comentarios en git",
       "isDone": false
     }
   ]
