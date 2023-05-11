@@ -7,12 +7,12 @@
     },
     {
       "id": 2,
-      "name": "Tatuarme la S de SOLID en el brazo",
+      "name": "Tatuarme la S de SOLID en un brazo",
       "isDone": false
     },
     {
       "id": 3,
-      "name": "No matar pandas",
+      "name": "Tener el presentimiento de que empieza la acción",
       "isDone": false
     },
     {
@@ -22,12 +22,7 @@
     },
     {
       "id": 5,
-      "name": "Contestar comentarios de git",
-      "isDone": false
-    },
-    {
-      "id": 6,
-      "name": "Volver a ser feliz",
+      "name": "Contestar comentarios en git",
       "isDone": false
     }
   ]
